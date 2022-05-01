@@ -1,0 +1,6 @@
+com\ust\spring\springmvcorm\user\controller\UserController.class
+com\ust\spring\springmvcorm\user\service\UserServiceImpl.class
+com\ust\spring\springmvcorm\user\dao\UserDao.class
+com\ust\spring\springmvcorm\user\entity\User.class
+com\ust\spring\springmvcorm\user\dao\impl\UserDaoImpl.class
+com\ust\spring\springmvcorm\user\service\UserService.class
